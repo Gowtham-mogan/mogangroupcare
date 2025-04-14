@@ -1,0 +1,1 @@
+export default function Home() { return <div>Hello from Mogan Group Care</div>; }
