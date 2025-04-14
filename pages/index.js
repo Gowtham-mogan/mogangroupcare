@@ -1,0 +1,1 @@
+export default function Home() { return <div style={{ fontFamily: 'Montserrat, sans-serif', textAlign: 'center', padding: '4rem' }}><h1>Welcome to Mogan Group Care</h1><p>Your professional cleaning partner.</p></div>; }
